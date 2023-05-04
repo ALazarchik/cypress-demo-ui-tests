@@ -1,0 +1,17 @@
+{
+  "name": "cypress-demo-ui-tests",
+  "description": "this project contains sample UI tests for demo app",
+  "scripts": {
+    "open": "npx cypress open"
+  },
+  "keywords": [
+    "Cypress"
+  ],
+  "author": "Andrei Lazarchik",
+  "devDependencies": {
+    "@types/node": "^18.16.3",
+    "cypress": "^12.11.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
